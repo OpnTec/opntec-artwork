@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="87mm"
+   height="57mm"
+   viewBox="0 0 308.26771 201.9685"
+   id="svg3536"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="OpnTec-sample-card.svg"
+   inkscape:export-filename="/home/opntec/git/opntec-artwork/cards/svg/OpnTec-sample-card.png"
+   inkscape:export-xdpi="600"
+   inkscape:export-ydpi="600">
+  <defs
+     id="defs3538" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="256"
+     inkscape:cx="308.31854"
+     inkscape:cy="201.76712"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1366"
+     inkscape:window-height="742"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     showborder="true"
+     borderlayer="true" />
+  <metadata
+     id="metadata3541">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(444.16199,-427.83466)">
+    <rect
+       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:8.33199978;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5027"
+       width="308.27127"
+       height="201.96851"
+       x="-444.16199"
+       y="427.83466" />
+    <flowRoot
+       transform="translate(-201.76245,-1.5003738)"
+       xml:space="preserve"
+       id="flowRoot3424"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
+         id="flowRegion3426"><rect
+           id="rect3428"
+           width="383.85797"
+           height="162.12949"
+           x="-67.175148"
+           y="-12.199368" /></flowRegion><flowPara
+         id="flowPara3430" /></flowRoot>    <g
+       id="g3366"
+       transform="translate(2.7286629,-1.4298117)">
+      <text
+         sodipodi:linespacing="135%"
+         id="text2988"
+         y="476.95059"
+         x="-423.0484"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33px;line-height:135.00000238%;font-family:'Bitstream Charter';-inkscape-font-specification:'Bitstream Charter';display:inline;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:135.00000238%;font-family:Rubik;-inkscape-font-specification:Rubik;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           y="476.95059"
+           x="-423.0484"
+           id="tspan2990"
+           sodipodi:role="line">Mario Behling</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10px;line-height:135.00000238%;font-family:Rubik;-inkscape-font-specification:'Rubik Light';text-align:start;writing-mode:lr-tb;text-anchor:start"
+           id="tspan2992"
+           y="491.16263"
+           x="-423.0484"
+           sodipodi:role="line">CEO</tspan><tspan
+           id="tspan4942"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10px;line-height:135.00000238%;font-family:Rubik;-inkscape-font-specification:'Rubik Light';text-align:start;writing-mode:lr-tb;text-anchor:start"
+           y="504.66263"
+           x="-423.0484"
+           sodipodi:role="line">mb@opntec.com</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3340"
+         y="524.74963"
+         x="-289.74799"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33px;line-height:125%;font-family:'Bitstream Charter';-inkscape-font-specification:'Bitstream Charter';display:inline;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           id="tspan2873"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10px;line-height:125%;font-family:Rubik;-inkscape-font-specification:'Rubik Light';text-align:start;writing-mode:lr-tb;text-anchor:start"
+           y="524.74963"
+           x="-289.74799"
+           sodipodi:role="line">OpnTec GmbH</tspan><tspan
+           id="tspan3700"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10px;line-height:125%;font-family:Rubik;-inkscape-font-specification:'Rubik Light';text-align:start;writing-mode:lr-tb;text-anchor:start"
+           y="537.24963"
+           x="-289.74799"
+           sodipodi:role="line">Singerstr. 111</tspan><tspan
+           id="tspan4179"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10px;line-height:125%;font-family:Rubik;-inkscape-font-specification:'Rubik Light';text-align:start;writing-mode:lr-tb;text-anchor:start"
+           y="549.74963"
+           x="-289.74799"
+           sodipodi:role="line">10179 Berlin</tspan><tspan
+           id="tspan4181"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10px;line-height:125%;font-family:Rubik;-inkscape-font-specification:'Rubik Light';text-align:start;writing-mode:lr-tb;text-anchor:start"
+           y="562.24963"
+           x="-289.74799"
+           sodipodi:role="line">Germany</tspan></text>
+      <text
+         sodipodi:linespacing="135%"
+         id="text3280"
+         y="474.85312"
+         x="-289.34409"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:33px;line-height:135.00000238%;font-family:'Bitstream Charter';-inkscape-font-specification:'Bitstream Charter';display:inline;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           id="tspan3212"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10px;line-height:135.00000238%;font-family:'Bitstream Charter';-inkscape-font-specification:'Bitstream Charter, Bold';text-align:start;letter-spacing:0.19915999;writing-mode:lr-tb;text-anchor:start"
+           y="474.85312"
+           x="-289.34409"
+           sodipodi:role="line"><tspan
+             id="tspan5015"
+             style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:10px;line-height:135.00000238%;font-family:Rubik;-inkscape-font-specification:'Rubik Medium Italic';text-align:start;writing-mode:lr-tb;text-anchor:start">MOBILE</tspan><tspan
+             id="tspan5009"
+             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10px;line-height:135.00000238%;font-family:Rubik;-inkscape-font-specification:'Rubik Light';text-align:start;writing-mode:lr-tb;text-anchor:start"> +49 176 24387682</tspan></tspan><tspan
+           id="tspan4936"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10px;line-height:135.00000238%;font-family:'Bitstream Charter';-inkscape-font-specification:'Bitstream Charter, Bold';text-align:start;letter-spacing:0.19915999;writing-mode:lr-tb;text-anchor:start"
+           y="488.35312"
+           x="-289.34409"
+           sodipodi:role="line"><tspan
+             id="tspan5017"
+             style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:10px;line-height:135.00000238%;font-family:Rubik;-inkscape-font-specification:'Rubik Medium Italic';text-align:start;writing-mode:lr-tb;text-anchor:start">TWITTER</tspan><tspan
+             id="tspan5011"
+             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10px;line-height:135.00000238%;font-family:Rubik;-inkscape-font-specification:'Rubik Light';text-align:start;writing-mode:lr-tb;text-anchor:start"> @mariobehling</tspan></tspan><tspan
+           id="tspan3214"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10px;line-height:135.00000238%;font-family:'Bitstream Charter';-inkscape-font-specification:'Bitstream Charter, Bold';text-align:start;letter-spacing:0.19915999;writing-mode:lr-tb;text-anchor:start"
+           y="501.85312"
+           x="-289.34409"
+           sodipodi:role="line"><tspan
+             id="tspan5019"
+             style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:10px;line-height:135.00000238%;font-family:Rubik;-inkscape-font-specification:'Rubik Medium Italic';text-align:start;writing-mode:lr-tb;text-anchor:start">GITHUB</tspan><tspan
+             id="tspan5013"
+             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10px;line-height:135.00000238%;font-family:Rubik;-inkscape-font-specification:'Rubik Light';text-align:start;writing-mode:lr-tb;text-anchor:start"> @mariobehling</tspan></tspan></text>
+      <text
+         sodipodi:linespacing="135%"
+         id="text3280-5"
+         y="585.68286"
+         x="-289.668"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:47.53712082px;line-height:135.00000238%;font-family:'Bitstream Charter';-inkscape-font-specification:'Bitstream Charter';display:inline;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           id="tspan3214-5"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:135.00000238%;font-family:Rubik;-inkscape-font-specification:Rubik;text-align:start;letter-spacing:0.28689373;writing-mode:lr-tb;text-anchor:start"
+           y="585.68286"
+           x="-289.668"
+           sodipodi:role="line">opntec.com</tspan></text>
+      <g
+         id="g3400"
+         style="display:inline"
+         transform="matrix(1.1330963,0,0,1.1330963,-171.75565,-88.399504)">
+        <g
+           id="bg-3"
+           transform="matrix(0.35141714,0,0,0.20499241,-220.40936,554.64845)">
+          <rect
+             style="fill:#ff8700"
+             x="0"
+             y="0"
+             width="226.771"
+             height="226.772"
+             id="rect5-6" />
+        </g>
+        <g
+           id="g4208"
+           transform="matrix(0.33625845,0,0,0.33625845,-220.55113,557.04106)">
+          <path
+             d="m 44.179088,43.338374 c -8.717852,0 -16.060056,6.003496 -18.097669,14.094845 l 9.184772,0 c 1.66526,-3.231516 5.032713,-5.450874 8.912897,-5.450874 5.526228,0 10.022571,4.496341 10.022571,10.025529 0,5.524752 -4.496343,10.021096 -10.022571,10.021096 -3.880184,0 -7.247637,-2.216403 -8.912897,-5.450874 l -9.184772,0 c 2.037613,8.092827 9.379817,14.099278 18.097669,14.099278 10.295928,0 18.665065,-8.373571 18.665065,-18.6695 0,-10.297409 -8.369137,-18.6695 -18.665065,-18.6695 z"
+             id="path40-9"
+             inkscape:connector-curvature="0"
+             style="fill:#ffffff" />
+          <text
+             sodipodi:linespacing="1000%"
+             id="text4141"
+             y="79.804245"
+             x="63.161266"
+             style="font-style:normal;font-weight:normal;font-size:51.36038589px;line-height:1000%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             xml:space="preserve"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Bold';fill:#ffffff"
+               y="79.804245"
+               x="63.161266"
+               id="tspan4143"
+               sodipodi:role="line">PNTEC</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

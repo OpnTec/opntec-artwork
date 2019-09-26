@@ -16,7 +16,7 @@
    width="62cm"
    height="42cm"
    viewBox="0 0 2196.8503 1488.1889"
-   sodipodi:docname="OTS_TH_Poster_orange_60x40.svg"
+   sodipodi:docname="OTS_TH_PPBoard_orange_60x40.svg"
    inkscape:export-filename="/home/makergirl/git/opntec-artwork/ots16/poster/OTS16-Poster.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300"><metadata
@@ -41,9 +41,9 @@
      inkscape:window-height="740"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.1767767"
-     inkscape:cx="1582.9362"
-     inkscape:cy="587.70091"
+     inkscape:zoom="0.125"
+     inkscape:cx="503.02374"
+     inkscape:cy="505.43735"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -63,7 +63,7 @@
          style="fill:#575757;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.79525536"
          d="M 1757.4802,3.0643977e-5 H -2.3401278e-5 V 442.2184 H 1757.4802 Z" /></g><g
        id="g4352"
-       transform="matrix(0.83475733,0,0,0.83475733,-122.18014,-170.33237)"><g
+       transform="matrix(0.83475733,0,0,0.83475733,-122.18014,-156.83237)"><g
          transform="translate(1222.9067,1156.207)"
          id="g24"><path
            inkscape:connector-curvature="0"
@@ -185,6 +185,7 @@
      style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:123.01833344px;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';letter-spacing:31.68654633px;fill:#ffffff;stroke-width:0.46131876">Thailand</tspan></text>
 
 
+
 </g></g><g
            id="g4331-3"
            transform="matrix(1.3018143,0,0,1.3018143,-630.20676,-184.21077)"><g
@@ -201,6 +202,7 @@
      x="718.9035"
      y="-409.74338"
      style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:123.01833344px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';letter-spacing:34.56714249px;fill:#ffffff;stroke-width:0.46131876">ประเทศไทย</tspan></text>
+
 
 
 </g></g></g></g></g></svg>

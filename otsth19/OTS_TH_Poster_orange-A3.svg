@@ -42,8 +42,8 @@
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.1767767"
-     inkscape:cx="532.77976"
-     inkscape:cy="268.95719"
+     inkscape:cx="1027.6882"
+     inkscape:cy="134.28447"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -64,7 +64,7 @@
          style="fill:#575757;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.54204881"
          d="M 1212.8195,1.7918813e-5 H 0 V 297.71084 h 1212.8195 z" /></g><g
        id="g4352"
-       transform="matrix(0.57529362,0,0,0.57529362,-83.399125,-131.77814)"><g
+       transform="matrix(0.57529362,0,0,0.57529362,-83.399125,-118.27814)"><g
          transform="translate(1222.9067,1156.207)"
          id="g24"><path
            inkscape:connector-curvature="0"
@@ -183,6 +183,7 @@
      id="tspan866"
      sodipodi:role="line">Thailand</tspan></text>
 
+
 </g></g><g
          transform="matrix(1.3018143,0,0,1.3018143,-630.20676,-184.21077)"
          id="g4331-3"><g
@@ -199,5 +200,6 @@
      x="718.9035"
      id="tspan866-5"
      sodipodi:role="line">ประเทศไทย</tspan></text>
+
 
 </g></g></g></g></svg>

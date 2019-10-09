@@ -14,9 +14,9 @@
    viewBox="0 0 210 297"
    version="1.1"
    id="svg16"
-   sodipodi:docname="OTS_VN_Badge-Speaker1.svg"
+   sodipodi:docname="OTS_VN_Badge-Organizer_small.svg"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   inkscape:export-filename="/home/opntec/git/opntec-artwork/otsvn19/OTS_VN_Badge-Speaker.png"
+   inkscape:export-filename="/home/opntec/git/opntec-artwork/otsvn19/OTS_VN_Badge-Organizer.png"
    inkscape:export-xdpi="79"
    inkscape:export-ydpi="79">
   <sodipodi:namedview
@@ -32,9 +32,9 @@
      inkscape:window-height="740"
      id="namedview56"
      showgrid="false"
-     inkscape:zoom="0.25"
-     inkscape:cx="-264.65803"
-     inkscape:cy="969.79062"
+     inkscape:zoom="0.5"
+     inkscape:cx="658.06725"
+     inkscape:cy="466.22144"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -429,62 +429,62 @@
        y="247.19757"
        id="text2435-6" />
     <rect
-       style="opacity:1;fill:#484537;fill-opacity:1;stroke:none;stroke-width:0.01271118;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
-       id="rect5803-2-4-6-5-7"
-       width="3.4469533"
-       height="0.064544015"
-       x="-302.50165"
-       y="100.04929"
-       transform="matrix(2.7133021e-4,-0.99999996,0.99998716,0.0050681,0,0)" />
-    <rect
-       style="opacity:1;fill:#484537;fill-opacity:1;stroke:none;stroke-width:0.02061826;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       style="opacity:1;fill:#484537;fill-opacity:1;stroke:none;stroke-width:0.02402539;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        id="rect5803-2"
-       width="9.0693932"
+       width="12.314451"
        height="0.064542443"
-       x="-4.9057093"
-       y="159.99257" />
+       x="-4.8340516"
+       y="159.98859" />
     <rect
-       style="opacity:1;fill:#484537;fill-opacity:1;stroke:none;stroke-width:0.02033949;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       style="opacity:1;fill:#484537;fill-opacity:1;stroke:none;stroke-width:0.02402539;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        id="rect5803-2-4"
-       width="8.8257971"
+       width="12.314451"
        height="0.064542443"
-       x="-4.9820657"
-       y="145.99837" />
+       x="-4.9680891"
+       y="146.0007" />
     <rect
-       style="opacity:1;fill:#484537;fill-opacity:1;stroke:none;stroke-width:0.01893284;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       style="opacity:1;fill:#484537;fill-opacity:1;stroke:none;stroke-width:0.02134195;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        id="rect5803-2-7"
-       width="7.6472578"
+       width="9.717226"
        height="0.064542443"
-       x="197.2775"
-       y="159.99599" />
+       x="195.28711"
+       y="159.98988" />
     <rect
-       style="opacity:1;fill:#484537;fill-opacity:1;stroke:none;stroke-width:0.01271118;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
-       id="rect5803-2-4-6-5"
-       width="3.4469533"
-       height="0.064544015"
-       x="-8.9410715"
-       y="99.987228"
-       transform="matrix(2.7133021e-4,-0.99999996,0.99998716,0.0050681,0,0)" />
-    <rect
-       style="opacity:1;fill:#484537;fill-opacity:1;stroke:none;stroke-width:0.01949759;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       style="opacity:1;fill:#484537;fill-opacity:1;stroke:none;stroke-width:0.02134195;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        id="rect5803-2-4-6"
-       width="8.1102791"
+       width="9.717226"
        height="0.064542443"
-       x="196.86108"
-       y="145.9998" />
+       x="195.26175"
+       y="146.00224" />
+    <rect
+       style="opacity:1;fill:#484537;fill-opacity:1;stroke:none;stroke-width:0.02121172;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect5803-2-4-6-5"
+       width="9.5979319"
+       height="0.06454961"
+       x="-14.187794"
+       y="99.994858"
+       transform="matrix(9.7444175e-5,-1,0.99990044,0.01411074,0,0)" />
+    <rect
+       style="opacity:1;fill:#484537;fill-opacity:1;stroke:none;stroke-width:0.02321001;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect5803-2-4-6-5-7"
+       width="11.491003"
+       height="0.064552397"
+       x="-301.31854"
+       y="100.00472"
+       transform="matrix(8.1390858e-5,-1,0.9998573,0.01689318,0,0)" />
     <g
-       id="g1716"
+       id="g1208"
        transform="translate(10.041573,-5.9999079)">
       <path
          inkscape:connector-curvature="0"
          id="path12-3"
          style="fill:#f0841e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.06821914"
-         d="M 179.91676,151.9999 H 89.958309 V 26.058118 h 89.958451 z" />
+         d="M 179.91676,151.9999 H 89.958308 V 26.058122 h 89.958452 z" />
       <path
          inkscape:connector-curvature="0"
          id="path12"
          style="fill:#f0841e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.06821914"
-         d="M 89.958547,151.9999 H 9.6846453e-5 V 26.058117 H 89.958547 Z" />
+         d="M 89.958544,151.9999 H 9.6846453e-5 V 26.058121 H 89.958544 Z" />
       <rect
          inkscape:export-ydpi="79"
          inkscape:export-xdpi="79"
@@ -494,21 +494,7 @@
          height="52.311813"
          width="74.108406"
          id="rect22-2-7"
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.19029069;stroke-opacity:1" />
-      <text
-         inkscape:export-ydpi="79"
-         inkscape:export-xdpi="79"
-         inkscape:export-filename="/home/opntec/Downloads/text1436-3-1-53.png"
-         id="text1436-0-9"
-         y="71.627571"
-         x="97.718597"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.41070461px;line-height:1;font-family:'open sans';-inkscape-font-specification:'open sans';letter-spacing:0px;word-spacing:-4.98152304px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.39040145"
-         xml:space="preserve"><tspan
-           id="tspan1438-6-8"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:rubik;-inkscape-font-specification:'rubik Bold';word-spacing:0px;fill:#ffffff;stroke-width:0.39040145"
-           y="71.627571"
-           x="97.718597"
-           sodipodi:role="line">I'm a SPEAKER</tspan></text>
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.19029067;stroke-opacity:1" />
       <text
          inkscape:export-ydpi="79"
          inkscape:export-xdpi="79"
@@ -527,24 +513,24 @@
          inkscape:export-ydpi="79"
          inkscape:export-xdpi="79"
          inkscape:export-filename="/home/opntec/Downloads/text1436-3-1-53.png"
-         y="97.722061"
+         y="97.722069"
          x="101.10199"
-         height="0.47881627"
-         width="38.612579"
+         height="0.47881624"
+         width="38.612576"
          id="rect5803-7-84"
-         style="opacity:1;fill:#484537;fill-opacity:1;stroke:none;stroke-width:0.11587486;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+         style="opacity:1;fill:#484537;fill-opacity:1;stroke:none;stroke-width:0.11587484;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
       <text
          inkscape:export-ydpi="79"
          inkscape:export-xdpi="79"
          inkscape:export-filename="/home/opntec/Downloads/text1436-3-1-53.png"
          id="text6139-5-8"
          y="107.97318"
-         x="100.69951"
+         x="100.69949"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.59810638px;line-height:802.29998779;font-family:'open sans';-inkscape-font-specification:'open sans';letter-spacing:0px;word-spacing:-2.10479593px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.16495265"
          xml:space="preserve"><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Rubik;-inkscape-font-specification:Rubik;stroke-width:0.16495265"
            y="107.97318"
-           x="100.69951"
+           x="100.69949"
            id="tspan6137-9-1"
            sodipodi:role="line">Organization</tspan></text>
       <text
@@ -552,20 +538,20 @@
          inkscape:export-xdpi="79"
          inkscape:export-filename="/home/opntec/Downloads/text1436-3-1-53.png"
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:2.48446441px;line-height:2.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1261669"
-         x="120.11082"
+         style="font-style:normal;font-weight:normal;font-size:2.48446417px;line-height:2.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1261669"
+         x="120.11081"
          y="142.8194"
          id="text891-6-6"
          transform="scale(0.98423308,1.0160195)"><tspan
            id="tspan889-2-8"
-           x="120.11082"
+           x="120.11081"
            y="142.8194"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.07811594px;font-family:rubik;-inkscape-font-specification:rubik;fill:#ffffff;stroke-width:0.1261669">vn.opentechsummit.asia</tspan></text>
       <g
          inkscape:export-ydpi="79"
          inkscape:export-xdpi="79"
          inkscape:export-filename="/home/opntec/Downloads/text1436-3-1-53.png"
-         transform="matrix(0.87198513,0,0,0.87062727,91.649693,-107.7543)"
+         transform="matrix(0.87198514,0,0,0.87062725,91.64969,-107.75429)"
          id="g5795-1-5">
         <text
            xml:space="preserve"
@@ -595,7 +581,7 @@
          inkscape:export-ydpi="79"
          inkscape:export-xdpi="79"
          inkscape:export-filename="/home/opntec/Downloads/text1436-3-1-53.png"
-         transform="matrix(0.87198513,0,0,0.87062727,95.727238,-107.7543)"
+         transform="matrix(0.87198514,0,0,0.87062725,95.727234,-107.75429)"
          id="g5784-1-0">
         <text
            xml:space="preserve"
@@ -623,7 +609,7 @@
          inkscape:export-xdpi="79"
          inkscape:export-filename="/home/opntec/Downloads/text1436-3-1-53.png"
          style="fill:#ffffff"
-         transform="matrix(0.04556068,0,0,0.04556072,97.742239,33.817493)"
+         transform="matrix(0.04556068,0,0,0.04556071,97.742239,33.817496)"
          id="g2813-3-0">
         <g
            style="fill:#ffffff"
@@ -739,43 +725,43 @@
          inkscape:export-ydpi="79"
          inkscape:export-xdpi="79"
          inkscape:export-filename="/home/opntec/Downloads/text1436-3-1-53.png"
-         y="75.971153"
-         x="6.9348249"
+         y="75.971161"
+         x="6.9348245"
          height="52.311813"
          width="74.108406"
          id="rect22-2-4-1"
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.19029069;stroke-opacity:1" />
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.19029067;stroke-opacity:1" />
       <text
          inkscape:export-ydpi="79"
          inkscape:export-xdpi="79"
          inkscape:export-filename="/home/opntec/Downloads/text1436-3-1-53.png"
          id="text1436-0-2-3"
-         y="71.627617"
-         x="6.2268634"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.41070461px;line-height:1;font-family:'open sans';-inkscape-font-specification:'open sans';letter-spacing:0px;word-spacing:-4.98152304px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.39040145"
+         y="70.456413"
+         x="6.3062625"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.2430687px;line-height:1;font-family:'open sans';-inkscape-font-specification:'open sans';letter-spacing:0px;word-spacing:-4.42280912px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.34661511"
          xml:space="preserve"><tspan
            id="tspan1438-6-7-0"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:rubik;-inkscape-font-specification:'rubik Bold';word-spacing:0px;fill:#ffffff;stroke-width:0.39040145"
-           y="71.627617"
-           x="6.2268634"
-           sodipodi:role="line">I'm a SPEAKER</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:rubik;-inkscape-font-specification:'rubik Bold';word-spacing:0px;fill:#ffffff;stroke-width:0.34661511"
+           y="70.456413"
+           x="6.3062625"
+           sodipodi:role="line">I'm an Organizer</tspan></text>
       <text
          inkscape:export-ydpi="79"
          inkscape:export-xdpi="79"
          inkscape:export-filename="/home/opntec/Downloads/text1436-3-1-53.png"
          id="text1436-3-1-4-3"
-         y="55.271275"
+         y="55.271278"
          x="6.8165798"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.73279047px;line-height:1;font-family:'open sans';-inkscape-font-specification:'open sans';letter-spacing:0px;word-spacing:-2.26463985px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.17747962"
          xml:space="preserve"><tspan
            id="tspan1283-0-2"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:rubik;-inkscape-font-specification:rubik;word-spacing:0px;fill:#ffffff;stroke-width:0.17747962"
-           y="55.271275"
+           y="55.271278"
            x="6.8165798"
            sodipodi:role="line">11-12 tháng 10/October  2019</tspan><tspan
            id="tspan1268"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:rubik;-inkscape-font-specification:rubik;word-spacing:0px;fill:#ffffff;stroke-width:0.17747962"
-           y="60.13649"
+           y="60.136494"
            x="6.8165798"
            sodipodi:role="line">Officience Thành phố Hồ Chí Minh</tspan></text>
       <text
@@ -783,25 +769,25 @@
          inkscape:export-xdpi="79"
          inkscape:export-filename="/home/opntec/Downloads/text1436-3-1-53.png"
          id="text5799-3-3-1"
-         y="92.600319"
-         x="9.3800678"
+         y="92.600311"
+         x="9.3800669"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.65859938px;line-height:802.29998779;font-family:'open sans';-inkscape-font-specification:'open sans';letter-spacing:0px;word-spacing:-2.4430933px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.19146499"
          xml:space="preserve"><tspan
            style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Rubik;-inkscape-font-specification:'Rubik Medium';word-spacing:0px;stroke-width:0.19146499"
-           y="92.600319"
-           x="9.3800678"
+           y="92.600311"
+           x="9.3800669"
            id="tspan5797-1-2-7"
            sodipodi:role="line">Name</tspan></text>
       <rect
          inkscape:export-ydpi="79"
          inkscape:export-xdpi="79"
          inkscape:export-filename="/home/opntec/Downloads/text1436-3-1-53.png"
-         y="97.722115"
+         y="97.722122"
          x="9.6102552"
-         height="0.47881627"
-         width="38.612579"
+         height="0.47881624"
+         width="38.612576"
          id="rect5803-7-8-5"
-         style="opacity:1;fill:#484537;fill-opacity:1;stroke:none;stroke-width:0.11587486;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+         style="opacity:1;fill:#484537;fill-opacity:1;stroke:none;stroke-width:0.11587484;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
       <text
          inkscape:export-ydpi="79"
          inkscape:export-xdpi="79"
@@ -821,20 +807,20 @@
          inkscape:export-xdpi="79"
          inkscape:export-filename="/home/opntec/Downloads/text1436-3-1-53.png"
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:2.48446441px;line-height:2.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1261669"
-         x="27.153429"
+         style="font-style:normal;font-weight:normal;font-size:2.48446417px;line-height:2.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1261669"
+         x="27.153427"
          y="142.81944"
          id="text891-6-7-4"
          transform="scale(0.98423308,1.0160195)"><tspan
            id="tspan889-2-0-2"
-           x="27.153429"
+           x="27.153427"
            y="142.81944"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.07811594px;font-family:rubik;-inkscape-font-specification:rubik;fill:#ffffff;stroke-width:0.1261669">vn.opentechsummit.asia</tspan></text>
       <g
          inkscape:export-ydpi="79"
          inkscape:export-xdpi="79"
          inkscape:export-filename="/home/opntec/Downloads/text1436-3-1-53.png"
-         transform="matrix(0.87198513,0,0,0.87062727,0.15795868,-107.75424)"
+         transform="matrix(0.87198514,0,0,0.87062725,0.15795867,-107.75423)"
          id="g5795-1-0-2">
         <text
            xml:space="preserve"
@@ -864,7 +850,7 @@
          inkscape:export-ydpi="79"
          inkscape:export-xdpi="79"
          inkscape:export-filename="/home/opntec/Downloads/text1436-3-1-53.png"
-         transform="matrix(0.87198513,0,0,0.87062727,4.2355027,-107.75424)"
+         transform="matrix(0.87198514,0,0,0.87062725,4.2355026,-107.75423)"
          id="g5784-1-2-6">
         <text
            xml:space="preserve"
@@ -892,7 +878,7 @@
          inkscape:export-xdpi="79"
          inkscape:export-filename="/home/opntec/Downloads/text1436-3-1-53.png"
          style="fill:#ffffff"
-         transform="matrix(0.04556068,0,0,0.04556072,6.2505078,33.817546)"
+         transform="matrix(0.04556068,0,0,0.04556071,6.2505076,33.81755)"
          id="g2813-3-8-9">
         <g
            style="fill:#ffffff"
@@ -1009,23 +995,37 @@
          inkscape:export-xdpi="79"
          inkscape:export-filename="/home/opntec/Downloads/text1436-3-1-53.png"
          id="text1436-3-1-4-3-3"
-         y="55.271389"
+         y="55.271397"
          x="98.308205"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.73279047px;line-height:1;font-family:'open sans';-inkscape-font-specification:'open sans';letter-spacing:0px;word-spacing:-2.26463985px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.17747962"
          xml:space="preserve"><tspan
            id="tspan1283-0-2-6"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:rubik;-inkscape-font-specification:rubik;word-spacing:0px;fill:#ffffff;stroke-width:0.17747962"
-           y="55.271389"
+           y="55.271397"
            x="98.308205"
            sodipodi:role="line">11-12 tháng 10/October  2019</tspan><tspan
            id="tspan1268-7"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:rubik;-inkscape-font-specification:rubik;word-spacing:0px;fill:#ffffff;stroke-width:0.17747962"
-           y="60.136604"
+           y="60.136612"
            x="98.308205"
            sodipodi:role="line">Officience Thành phố Hồ Chí Minh</tspan></text>
+      <text
+         inkscape:export-ydpi="79"
+         inkscape:export-xdpi="79"
+         inkscape:export-filename="/home/opntec/Downloads/text1436-3-1-53.png"
+         id="text1436-0-2-3-3"
+         y="70.456352"
+         x="97.798111"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.2430687px;line-height:1;font-family:'open sans';-inkscape-font-specification:'open sans';letter-spacing:0px;word-spacing:-4.42280912px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.34661511"
+         xml:space="preserve"><tspan
+           id="tspan1438-6-7-0-6"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:rubik;-inkscape-font-specification:'rubik Bold';word-spacing:0px;fill:#ffffff;stroke-width:0.34661511"
+           y="70.456352"
+           x="97.798111"
+           sodipodi:role="line">I'm an Organizer</tspan></text>
     </g>
     <g
-       id="g1416"
+       id="g1308"
        transform="translate(10.041573,-11.000048)">
       <path
          inkscape:export-ydpi="79"
@@ -1044,62 +1044,48 @@
          inkscape:export-ydpi="79"
          inkscape:export-xdpi="79"
          inkscape:export-filename="/home/opntec/Downloads/text1436-3-1-53.png"
-         y="221.21204"
-         x="97.749634"
-         height="48.253372"
-         width="68.358955"
+         y="220.10463"
+         x="98.426567"
+         height="52.311817"
+         width="74.108406"
          id="rect22-2"
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.17552766;stroke-opacity:1" />
-      <text
-         inkscape:export-ydpi="79"
-         inkscape:export-xdpi="79"
-         inkscape:export-filename="/home/opntec/Downloads/text1436-3-1-53.png"
-         id="text1436-0"
-         y="217.20538"
-         x="97.096527"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.60302925px;line-height:1;font-family:'open sans';-inkscape-font-specification:'open sans';letter-spacing:0px;word-spacing:-4.59505033px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.36011365"
-         xml:space="preserve"><tspan
-           id="tspan1438-6"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:rubik;-inkscape-font-specification:'rubik Bold';word-spacing:0px;fill:#ffffff;stroke-width:0.36011365"
-           y="217.20538"
-           x="97.096527"
-           sodipodi:role="line">I'm a SPEAKER</tspan></text>
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.19029069;stroke-opacity:1" />
       <text
          inkscape:export-ydpi="79"
          inkscape:export-xdpi="79"
          inkscape:export-filename="/home/opntec/Downloads/text1436-3-1-53.png"
          id="text5799-3"
-         y="236.55107"
-         x="100.0051"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.06443214px;line-height:802.29998779;font-family:'open sans';-inkscape-font-specification:'open sans';letter-spacing:0px;word-spacing:-2.2535553px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.17661086"
+         y="236.73378"
+         x="100.8718"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.65859938px;line-height:802.29998779;font-family:'open sans';-inkscape-font-specification:'open sans';letter-spacing:0px;word-spacing:-2.4430933px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.19146501"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Rubik;-inkscape-font-specification:'Rubik Medium';word-spacing:0px;stroke-width:0.17661086"
-           y="236.55107"
-           x="100.0051"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Rubik;-inkscape-font-specification:'Rubik Medium';word-spacing:0px;stroke-width:0.19146501"
+           y="236.73378"
+           x="100.8718"
            id="tspan5797-1"
            sodipodi:role="line">Name</tspan></text>
       <rect
          inkscape:export-ydpi="79"
          inkscape:export-xdpi="79"
          inkscape:export-filename="/home/opntec/Downloads/text1436-3-1-53.png"
-         y="241.27544"
-         x="100.21745"
-         height="0.44166914"
-         width="35.616974"
+         y="241.85559"
+         x="101.102"
+         height="0.47881624"
+         width="38.612579"
          id="rect5803-7"
-         style="opacity:1;fill:#484537;fill-opacity:1;stroke:none;stroke-width:0.10688509;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+         style="opacity:1;fill:#484537;fill-opacity:1;stroke:none;stroke-width:0.11587485;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
       <text
          inkscape:export-ydpi="79"
          inkscape:export-xdpi="79"
          inkscape:export-filename="/home/opntec/Downloads/text1436-3-1-53.png"
          id="text6139-5"
-         y="250.73135"
-         x="99.846176"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.08621502px;line-height:802.29998779;font-family:'open sans';-inkscape-font-specification:'open sans';letter-spacing:0px;word-spacing:-1.94150424px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.15215537"
+         y="252.1067"
+         x="100.69951"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.59810686px;line-height:802.29998779;font-family:'open sans';-inkscape-font-specification:'open sans';letter-spacing:0px;word-spacing:-2.10479593px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.16495265"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Rubik;-inkscape-font-specification:Rubik;stroke-width:0.15215537"
-           y="250.73135"
-           x="99.846176"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Rubik;-inkscape-font-specification:Rubik;stroke-width:0.16495265"
+           y="252.1067"
+           x="100.69951"
            id="tspan6137-9"
            sodipodi:role="line">Organization</tspan></text>
       <text
@@ -1107,20 +1093,20 @@
          inkscape:export-xdpi="79"
          inkscape:export-filename="/home/opntec/Downloads/text1436-3-1-53.png"
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:2.29171658px;line-height:2.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.11637871"
-         x="117.86304"
-         y="280.49121"
+         style="font-style:normal;font-weight:normal;font-size:2.48446441px;line-height:2.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1261669"
+         x="120.11083"
+         y="284.68039"
          id="text891-6"
          transform="scale(0.98423308,1.0160195)"><tspan
            id="tspan889-2"
-           x="117.86304"
-           y="280.49121"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.83931112px;font-family:rubik;-inkscape-font-specification:rubik;fill:#ffffff;stroke-width:0.11637871">vn.opentechsummit.asia</tspan></text>
+           x="120.11083"
+           y="284.68039"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.07811618px;font-family:rubik;-inkscape-font-specification:rubik;fill:#ffffff;stroke-width:0.1261669">vn.opentechsummit.asia</tspan></text>
       <g
          inkscape:export-ydpi="79"
          inkscape:export-xdpi="79"
          inkscape:export-filename="/home/opntec/Downloads/text1436-3-1-53.png"
-         transform="matrix(0.80433538,0,0,0.80308282,91.498475,51.740216)"
+         transform="matrix(0.87198518,0,0,0.8706273,91.649704,36.379227)"
          id="g5795-1">
         <text
            xml:space="preserve"
@@ -1150,7 +1136,7 @@
          inkscape:export-ydpi="79"
          inkscape:export-xdpi="79"
          inkscape:export-filename="/home/opntec/Downloads/text1436-3-1-53.png"
-         transform="matrix(0.80433538,0,0,0.80308282,95.259689,51.740216)"
+         transform="matrix(0.87198518,0,0,0.8706273,95.727248,36.379227)"
          id="g5784-1">
         <text
            xml:space="preserve"
@@ -1178,7 +1164,7 @@
          inkscape:export-xdpi="79"
          inkscape:export-filename="/home/opntec/Downloads/text1436-3-1-53.png"
          style="fill:#ffffff"
-         transform="matrix(0.04202603,0,0,0.04202606,97.118364,182.32867)"
+         transform="matrix(0.04556068,0,0,0.04556072,97.742253,177.95102)"
          id="g2813-3">
         <g
            style="fill:#ffffff"
@@ -1294,62 +1280,48 @@
          inkscape:export-ydpi="79"
          inkscape:export-xdpi="79"
          inkscape:export-filename="/home/opntec/Downloads/text1436-3-1-53.png"
-         y="221.21205"
-         x="13.355916"
-         height="48.253372"
-         width="68.358955"
+         y="220.10468"
+         x="6.934834"
+         height="52.311817"
+         width="74.108406"
          id="rect22-2-4"
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.17552766;stroke-opacity:1" />
-      <text
-         inkscape:export-ydpi="79"
-         inkscape:export-xdpi="79"
-         inkscape:export-filename="/home/opntec/Downloads/text1436-3-1-53.png"
-         id="text1436-0-2"
-         y="217.20543"
-         x="12.702885"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.60302925px;line-height:1;font-family:'open sans';-inkscape-font-specification:'open sans';letter-spacing:0px;word-spacing:-4.59505033px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.36011365"
-         xml:space="preserve"><tspan
-           id="tspan1438-6-7"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:rubik;-inkscape-font-specification:'rubik Bold';word-spacing:0px;fill:#ffffff;stroke-width:0.36011365"
-           y="217.20543"
-           x="12.702885"
-           sodipodi:role="line">I'm a SPEAKER</tspan></text>
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.19029069;stroke-opacity:1" />
       <text
          inkscape:export-ydpi="79"
          inkscape:export-xdpi="79"
          inkscape:export-filename="/home/opntec/Downloads/text1436-3-1-53.png"
          id="text5799-3-3"
-         y="236.5511"
-         x="15.611455"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.06443214px;line-height:802.29998779;font-family:'open sans';-inkscape-font-specification:'open sans';letter-spacing:0px;word-spacing:-2.2535553px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.17661086"
+         y="236.73383"
+         x="9.3800764"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.65859938px;line-height:802.29998779;font-family:'open sans';-inkscape-font-specification:'open sans';letter-spacing:0px;word-spacing:-2.4430933px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.19146501"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Rubik;-inkscape-font-specification:'Rubik Medium';word-spacing:0px;stroke-width:0.17661086"
-           y="236.5511"
-           x="15.611455"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Rubik;-inkscape-font-specification:'Rubik Medium';word-spacing:0px;stroke-width:0.19146501"
+           y="236.73383"
+           x="9.3800764"
            id="tspan5797-1-2"
            sodipodi:role="line">Name</tspan></text>
       <rect
          inkscape:export-ydpi="79"
          inkscape:export-xdpi="79"
          inkscape:export-filename="/home/opntec/Downloads/text1436-3-1-53.png"
-         y="241.27548"
-         x="15.823786"
-         height="0.44166914"
-         width="35.616974"
+         y="241.85562"
+         x="9.6102638"
+         height="0.47881624"
+         width="38.612579"
          id="rect5803-7-8"
-         style="opacity:1;fill:#484537;fill-opacity:1;stroke:none;stroke-width:0.10688509;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+         style="opacity:1;fill:#484537;fill-opacity:1;stroke:none;stroke-width:0.11587485;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
       <text
          inkscape:export-ydpi="79"
          inkscape:export-xdpi="79"
          inkscape:export-filename="/home/opntec/Downloads/text1436-3-1-53.png"
          id="text6139-5-0"
-         y="250.73135"
-         x="15.452518"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.08621502px;line-height:802.29998779;font-family:'open sans';-inkscape-font-specification:'open sans';letter-spacing:0px;word-spacing:-1.94150424px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.15215537"
+         y="252.10675"
+         x="9.2077732"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.59810686px;line-height:802.29998779;font-family:'open sans';-inkscape-font-specification:'open sans';letter-spacing:0px;word-spacing:-2.10479593px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.16495265"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Rubik;-inkscape-font-specification:Rubik;stroke-width:0.15215537"
-           y="250.73135"
-           x="15.452518"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Rubik;-inkscape-font-specification:Rubik;stroke-width:0.16495265"
+           y="252.10675"
+           x="9.2077732"
            id="tspan6137-9-3"
            sodipodi:role="line">Organization</tspan></text>
       <text
@@ -1357,20 +1329,20 @@
          inkscape:export-xdpi="79"
          inkscape:export-filename="/home/opntec/Downloads/text1436-3-1-53.png"
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:2.29171658px;line-height:2.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.11637871"
-         x="32.117428"
-         y="280.49124"
+         style="font-style:normal;font-weight:normal;font-size:2.48446441px;line-height:2.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1261669"
+         x="27.153439"
+         y="284.68042"
          id="text891-6-7"
          transform="scale(0.98423308,1.0160195)"><tspan
            id="tspan889-2-0"
-           x="32.117428"
-           y="280.49124"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.83931112px;font-family:rubik;-inkscape-font-specification:rubik;fill:#ffffff;stroke-width:0.11637871">vn.opentechsummit.asia</tspan></text>
+           x="27.153439"
+           y="284.68042"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.07811618px;font-family:rubik;-inkscape-font-specification:rubik;fill:#ffffff;stroke-width:0.1261669">vn.opentechsummit.asia</tspan></text>
       <g
          inkscape:export-ydpi="79"
          inkscape:export-xdpi="79"
          inkscape:export-filename="/home/opntec/Downloads/text1436-3-1-53.png"
-         transform="matrix(0.80433538,0,0,0.80308282,7.1048114,51.740257)"
+         transform="matrix(0.87198518,0,0,0.8706273,0.15796767,36.379273)"
          id="g5795-1-0">
         <text
            xml:space="preserve"
@@ -1400,7 +1372,7 @@
          inkscape:export-ydpi="79"
          inkscape:export-xdpi="79"
          inkscape:export-filename="/home/opntec/Downloads/text1436-3-1-53.png"
-         transform="matrix(0.80433538,0,0,0.80308282,10.866014,51.740257)"
+         transform="matrix(0.87198518,0,0,0.8706273,4.2355118,36.379273)"
          id="g5784-1-2">
         <text
            xml:space="preserve"
@@ -1428,7 +1400,7 @@
          inkscape:export-xdpi="79"
          inkscape:export-filename="/home/opntec/Downloads/text1436-3-1-53.png"
          style="fill:#ffffff"
-         transform="matrix(0.04202603,0,0,0.04202606,12.72469,182.32872)"
+         transform="matrix(0.04556068,0,0,0.04556072,6.2505169,177.95106)"
          id="g2813-3-8">
         <g
            style="fill:#ffffff"
@@ -1545,39 +1517,67 @@
          inkscape:export-xdpi="79"
          inkscape:export-filename="/home/opntec/Downloads/text1436-3-1-53.png"
          id="text1436-3-1-4-3-5"
-         y="202.74495"
-         x="13.246749"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.36561346px;line-height:1;font-family:'open sans';-inkscape-font-specification:'open sans';letter-spacing:0px;word-spacing:-2.08894634px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.16371053"
+         y="200.08443"
+         x="6.8164811"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.73279047px;line-height:1;font-family:'open sans';-inkscape-font-specification:'open sans';letter-spacing:0px;word-spacing:-2.26463985px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.17747962"
          xml:space="preserve"><tspan
            id="tspan1283-0-2-3"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:rubik;-inkscape-font-specification:rubik;word-spacing:0px;fill:#ffffff;stroke-width:0.16371053"
-           y="202.74495"
-           x="13.246749"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:rubik;-inkscape-font-specification:rubik;word-spacing:0px;fill:#ffffff;stroke-width:0.17747962"
+           y="200.08443"
+           x="6.8164811"
            sodipodi:role="line">11-12 tháng 10/October  2019</tspan><tspan
            id="tspan1268-5"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:rubik;-inkscape-font-specification:rubik;word-spacing:0px;fill:#ffffff;stroke-width:0.16371053"
-           y="207.23271"
-           x="13.246749"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:rubik;-inkscape-font-specification:rubik;word-spacing:0px;fill:#ffffff;stroke-width:0.17747962"
+           y="204.94965"
+           x="6.8164811"
            sodipodi:role="line">Officience Thành phố Hồ Chí Minh</tspan></text>
       <text
          inkscape:export-ydpi="79"
          inkscape:export-xdpi="79"
          inkscape:export-filename="/home/opntec/Downloads/text1436-3-1-53.png"
          id="text1436-3-1-4-3-5-1"
-         y="202.74496"
-         x="97.640442"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.36561346px;line-height:1;font-family:'open sans';-inkscape-font-specification:'open sans';letter-spacing:0px;word-spacing:-2.08894634px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.16371053"
+         y="200.08444"
+         x="98.308212"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.73279047px;line-height:1;font-family:'open sans';-inkscape-font-specification:'open sans';letter-spacing:0px;word-spacing:-2.26463985px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.17747962"
          xml:space="preserve"><tspan
            id="tspan1283-0-2-3-2"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:rubik;-inkscape-font-specification:rubik;word-spacing:0px;fill:#ffffff;stroke-width:0.16371053"
-           y="202.74496"
-           x="97.640442"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:rubik;-inkscape-font-specification:rubik;word-spacing:0px;fill:#ffffff;stroke-width:0.17747962"
+           y="200.08444"
+           x="98.308212"
            sodipodi:role="line">11-12 tháng 10/October  2019</tspan><tspan
            id="tspan1268-5-7"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:rubik;-inkscape-font-specification:rubik;word-spacing:0px;fill:#ffffff;stroke-width:0.16371053"
-           y="207.23273"
-           x="97.640442"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:rubik;-inkscape-font-specification:rubik;word-spacing:0px;fill:#ffffff;stroke-width:0.17747962"
+           y="204.94966"
+           x="98.308212"
            sodipodi:role="line">Officience Thành phố Hồ Chí Minh</tspan></text>
+      <text
+         inkscape:export-ydpi="79"
+         inkscape:export-xdpi="79"
+         inkscape:export-filename="/home/opntec/Downloads/text1436-3-1-53.png"
+         id="text1436-0-2-3-3-7"
+         y="214.8172"
+         x="97.798119"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.24306965px;line-height:1;font-family:'open sans';-inkscape-font-specification:'open sans';letter-spacing:0px;word-spacing:-4.42280912px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.34661514"
+         xml:space="preserve"><tspan
+           id="tspan1438-6-7-0-6-5"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:rubik;-inkscape-font-specification:'rubik Bold';word-spacing:0px;fill:#ffffff;stroke-width:0.34661514"
+           y="214.8172"
+           x="97.798119"
+           sodipodi:role="line">I'm an Organizer</tspan></text>
+      <text
+         inkscape:export-ydpi="79"
+         inkscape:export-xdpi="79"
+         inkscape:export-filename="/home/opntec/Downloads/text1436-3-1-53.png"
+         id="text1436-0-2-3-3-7-3"
+         y="214.81718"
+         x="6.3063707"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.24306965px;line-height:1;font-family:'open sans';-inkscape-font-specification:'open sans';letter-spacing:0px;word-spacing:-4.42280912px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.34661514"
+         xml:space="preserve"><tspan
+           id="tspan1438-6-7-0-6-5-5"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:rubik;-inkscape-font-specification:'rubik Bold';word-spacing:0px;fill:#ffffff;stroke-width:0.34661514"
+           y="214.81718"
+           x="6.3063707"
+           sodipodi:role="line">I'm an Organizer</tspan></text>
     </g>
   </g>
 </svg>
